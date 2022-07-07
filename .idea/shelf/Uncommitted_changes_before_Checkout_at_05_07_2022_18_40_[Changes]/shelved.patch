@@ -1,0 +1,36 @@
+Index: password/passwordclass.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package password;public class passwordclass {\r\n}\r\n
+===================================================================
+diff --git a/password/passwordclass.java b/password/passwordclass.java
+--- a/password/passwordclass.java	
++++ b/password/passwordclass.java	
+@@ -1,2 +1,8 @@
+-package password;public class passwordclass {
++package password;
++
++public class passwordclass {
++    public static void main(String[] args) {
++        System.out.println("Hey");
++    }
++    //My password is ....
+ }
+Index: password/passwordclass2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package password;public class passwordclass2 {\r\n}\r\n
+===================================================================
+diff --git a/password/passwordclass2.java b/password/passwordclass2.java
+--- a/password/passwordclass2.java	
++++ b/password/passwordclass2.java	
+@@ -1,2 +1,8 @@
+-package password;public class passwordclass2 {
++package password;
++
++public class passwordclass2 {
++    public static void main(String[] args) {
++        //test
++        System.out.println("heyclass2");
++    }
+ }

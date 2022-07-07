@@ -1,0 +1,77 @@
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Default ignored files\r\n/shelf/\r\n/workspace.xml\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+--- a/.idea/.gitignore	
++++ b/.idea/.gitignore	
+@@ -1,3 +1,2 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
++/PracticeGit
++
+Index: airevan/testbranching.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/airevan/testbranching.java b/airevan/testbranching.java
+new file mode 100644
+--- /dev/null	
++++ b/airevan/testbranching.java	
+@@ -0,0 +1,5 @@
++package airevan;
++
++public class testbranching {
++    
++}
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+--- /dev/null	
++++ b/.gitignore	
+@@ -0,0 +1,1 @@
++/practice/Renastech1.java
+\ No newline at end of file
+Index: gitignorePractice/secondclass.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/gitignorePractice/secondclass.java b/gitignorePractice/secondclass.java
+new file mode 100644
+--- /dev/null	
++++ b/gitignorePractice/secondclass.java	
+@@ -0,0 +1,4 @@
++package gitignorePractice;
++
++public class secondclass {
++}
+Index: gitignorePractice/PracticeGit.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/gitignorePractice/PracticeGit.java b/gitignorePractice/PracticeGit.java
+new file mode 100644
+--- /dev/null	
++++ b/gitignorePractice/PracticeGit.java	
+@@ -0,0 +1,10 @@
++package gitignorePractice;
++
++public class PracticeGit {
++
++    public static void main(String[] args) {
++        System.out.println("Test");
++    }
++
++
++}
