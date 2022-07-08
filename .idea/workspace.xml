@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cb48f36-88a5-4d15-9818-fdf15f2efc2f" name="Changes" comment="this is practice">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airevan/testbranching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitignorePractice/PracticeGit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitignorePractice/secondclass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AirevanSEcondRepo/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AirevanSEcondRepo/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AirevanSEcondRepo/Day2/HelloWorld.class" beforeDir="false" />
+    <list default="true" id="8cb48f36-88a5-4d15-9818-fdf15f2efc2f" name="Changes" comment="this is my first branching practice">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_07_2022_18_40__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_07_2022_18_40__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_07_2022_18_40__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_07_2022_18_40__Changes_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +40,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Demo1">
+  <component name="RunManager" selected="Application.Class1practice">
+    <configuration name="Class1practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class1Testing.Class1practice" />
+      <module name="AirevanSEcondRepo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class1Testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo1" />
       <module name="AirevanSEcondRepo" />
@@ -79,19 +87,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="passwordclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="password.passwordclass" />
-      <module name="AirevanSEcondRepo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="password.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="passwordclass2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="password.passwordclass2" />
       <module name="AirevanSEcondRepo" />
@@ -107,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Class1practice" />
         <item itemvalue="Application.Demo1" />
         <item itemvalue="Application.Renastech2" />
         <item itemvalue="Application.Renastech1" />
         <item itemvalue="Application.passwordclass2" />
-        <item itemvalue="Application.passwordclass" />
       </list>
     </recent_temporary>
   </component>
